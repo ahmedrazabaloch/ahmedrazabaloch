@@ -1,15 +1,17 @@
-<!-- animation start  -->
-![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=000&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+AHMED+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+Full+Stack+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
-<!-- animation end  -->
 <img align="right" alt="Coding" style="border-radius:16px;"
 	src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png">
 
+<!-- <h1 align="center">Hi 👋, I'm Ahmedraza</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3> -->
+<h1 align="center">Hi 👋, </h1>
+
 <br/>
 
-<h1 align="center">Hi 👋, I'm Ahmedraza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<!-- animation start  -->
+![Typing
+SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=000&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+AHMED+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+Full+Stack+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
+<!-- animation end  -->
+<br/>
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
