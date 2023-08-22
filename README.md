@@ -1,9 +1,8 @@
 <img align="right" alt="Coding" style="border-radius:16px;"
 	src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png">
 
-<!-- <h1 align="center">Hi 👋, I'm Ahmedraza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3> -->
-<h1 align="center">Hi 👋, </h1>
+<h1 align="center">Hi 👋, I'm Ahmedraza</h1>
+<!-- <h3 align="center">A passionate frontend developer from Pakistan</h3> -->
 
 <br/>
 
