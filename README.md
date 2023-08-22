@@ -1,3 +1,5 @@
+@@ -7,23 +7,29 @@ SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=31F711&
+
 ### Hi there 👋
 
 <!--
