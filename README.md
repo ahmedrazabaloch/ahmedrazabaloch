@@ -1,6 +1,5 @@
-<!-- <img align="right" alt="Coding" style="border-radius:16px;"
-	src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png"> -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+ <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png"> 
+<!--<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">-->
 
 
 <h1 align="center">Hi 👋, I'm Ahmedraza</h1>
