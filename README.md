@@ -24,7 +24,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=000&cen
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [ahmedrazabaloch.netlify.app](ahmedrazabaloch.netlify.app)
+- 👨‍💻 All of my projects are available at [Ahmed-Raza Portfolio](https://ahmedrazabaloch.netlify.app/)
 
 - 💬 Ask me about **JavaScript**
 
