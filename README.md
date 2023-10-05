@@ -9,7 +9,7 @@
 
 <!-- animation start  -->
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=000&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+AHMED+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+Full+Stack+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
+SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+AHMED+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+Full+Stack+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
 <!-- animation end  -->
 <br/>
 
