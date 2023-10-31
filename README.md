@@ -18,8 +18,8 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrazabaloch&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrazabaloch" /> <img src="https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg" title="My Coding Stats" />
+[![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrazabaloch&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmedrazabaloch" /> 
  </p>
 
 - 🌱 I’m currently learning **JavaScript**
