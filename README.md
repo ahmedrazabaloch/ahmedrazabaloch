@@ -18,9 +18,6 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-[![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrazabaloch&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmedrazabaloch" /> 
- </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -35,9 +32,15 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrazabaloch" alt="ahmedrazabaloch" /></a> </p>
 
-<h1 align="left">🔥   My Stats :</h1>
+<h1 align="left">🔥   My Status :</h1>
 
 ###
+<div align="center">
+	
+[![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
+<img src="https://komarev.com/ghpvc/?username=ahmedrazabaloch&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmedrazabaloch" /> 
+
+</div>
 
 <br clear="both">
 
@@ -73,6 +76,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 <h3 align="left">💻  Languages and Tools:</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
