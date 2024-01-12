@@ -19,7 +19,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [Ahmed-Raza Portfolio](https://ahmedrazabaloch.netlify.app/)
 
