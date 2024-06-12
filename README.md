@@ -19,11 +19,11 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **NodeJS & MongoDB**
 
-- 👨‍💻 All of my projects are available at [Ahmed-Raza Portfolio](https://ahmedrazabaloch.netlify.app/)
+- 👨‍💻 All of my projects are available at [Ahmed-Raza Portfolio](https://ahmedrazabaloch.vercel.app/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **ahmed.raza1054@gmail.com**
 
