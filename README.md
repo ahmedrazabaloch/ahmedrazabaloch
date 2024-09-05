@@ -44,7 +44,7 @@ Hi, I'm **Ahmedraza**, a passionate **BS Computer Science student** from Virtual
 
 #### ⌛ WakaTime (Coding Hours) Status
 
-![WakaTime Stats](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg)
+[![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
 
 #### 👀 Profile Views
 
