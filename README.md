@@ -1,23 +1,52 @@
  <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png"> 
-<!--<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">-->
 
 
 <h1 align="center">Hi 👋, I'm Ahmedraza</h1>
-<!-- <h3 align="center">A passionate frontend developer from Pakistan</h3> -->
 
-<br/>
+### 👋 About Me
 
-<!-- animation start  -->
-![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+AHMED+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+MERN+Stack+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
-<!-- animation end  -->
-<br/>
+Hi, I'm **Ahmedraza**, a passionate **BS Computer Science student** from Virtual University Of Pakistan, with a focus on **full-stack web development**. I enjoy building interactive web applications using modern technologies and frameworks.
 
+- 🌱 Currently honing my skills in **JavaScript**, **React-Js**, and **Tailwind CSS**.  
+- 🎓 Completed a **MERN certification** from **SMIT**.
+- 🛠️ Focusing on **React** development and enhancing my UI/UX design with **Tailwind CSS**.
+- 💼 Freelance developer, delivering **web solutions** with a strong focus on **functionality** and **user experience**.
+- 🎯 Always open to learning new technologies and collaborating on exciting projects.
 
-- 🌱 I’m currently learning **NodeJS & MongoDB**
-- 👨‍💻 All of my projects are available at [Ahmed-Raza Portfolio](https://ahmedrazabaloch.vercel.app/)
-- 💬 Ask me about **Front-end**
-- 📫 How to reach me **ahmed.raza1054@gmail.com**
+---
+
+### 👯 I’m looking to collaborate on
+
+- Exciting open-source **React** or **MERN** stack projects.
+- Any project that requires **JavaScript** expertise.
+
+### 🤝 I’m looking for help with
+
+- Improving my skills in **Node.js** and **MongoDB**.
+- Learning best practices for **API development** and **database optimization**.
+
+### 🌱 I’m currently learning
+
+- **Node.js** and **MongoDB** for backend development.
+- Exploring **DevOps** practices for a better deployment workflow.
+
+### 💬 Ask me about
+
+- **MERN stack** development.
+- **Postman API** testing and automation.
+- **Freelancing** in web development.
+
+### ⚡ Fun fact
+
+- I'm a quick learner and love solving puzzles, whether it's a bug in code or a brain teaser!
+
+---
+
+#### ⌛ WakaTime (Coding Hours) Status
+
+![WakaTime Stats](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg)
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedrazabaloch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
