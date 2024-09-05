@@ -46,6 +46,10 @@ Hi, I'm **Ahmedraza**, a passionate **BS Computer Science student** from Virtual
 
 ![WakaTime Stats](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg)
 
+#### 👀 Profile Views
+
+![Github Visitor](https://camo.githubusercontent.com/7fdb27ee361c7f5106c0a3ae303f7342114932e709bf926ab6e2d5027694f910/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61686d656472617a6162616c6f6368266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666f722d7468652d6261646765)
+
 ---
 
 # 📊 GitHub Stats:
