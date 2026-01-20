@@ -1,44 +1,65 @@
- <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png"> 
+<img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png" />
 
+<h1 align="center">Ahmed Raza Baloch</h1>
+<h3 align="center">
+Mid-Level Full-Stack JavaScript Developer  
+<br/>
+MERN • Next.js • NestJS • CMS • AI Integrations
+</h3>
 
-<h1 align="center">Hi 👋, I'm Ahmedraza</h1>
-
-### 👋 About Me
-
-Hi, I'm **Ahmedraza**, a passionate **BS Computer Science student** from Virtual University Of Pakistan, with a focus on **full-stack web development**. I enjoy building interactive web applications using modern technologies and frameworks.
-
-- 🌱 Currently honing my skills in **JavaScript**, **React-Js**, and **Tailwind CSS**.  
-- 🎓 Completed a **MERN certification** from **SMIT**.
-- 🛠️ Focusing on **React** development and enhancing my UI/UX design with **Tailwind CSS**.
-- 💼 Freelance developer, delivering **web solutions** with a strong focus on **functionality** and **user experience**.
-- 🎯 Always open to learning new technologies and collaborating on exciting projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedrazabaloch/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ahmedrazabaloch">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 👯 I’m looking to collaborate on
+## 👋 About Me
 
-- Exciting open-source **React** or **MERN** stack projects.
-- Any project that requires **JavaScript** expertise.
+I am a **Mid-Level Full-Stack JavaScript Developer** with hands-on experience working in a **software house environment**, delivering **production-grade web applications** for real clients.
 
-### 🤝 I’m looking for help with
+My work spans **frontend, backend, CMS, databases, and AI-powered integrations**. I focus on building **scalable, maintainable, and business-driven solutions**, not just demos.
 
-- Improving my skills in **Node.js** and **MongoDB**.
-- Learning best practices for **API development** and **database optimization**.
+- 💼 Working as **MERN + Shopify Developer**
+- 🧠 Backend-heavy experience with **NestJS**, **Payload CMS**, and API-first systems
+- ⚙️ Full-stack apps using **Next.js** (frontend + backend)
+- 🤖 Integrated **AI services** for data summarization and automation
+- 🧩 Extensive experience with **third-party APIs**
+- 🎓 BS Computer Science — Virtual University of Pakistan
 
-### 🌱 I’m currently learning
+---
 
-- **Node.js** and **MongoDB** for backend development.
-- Exploring **DevOps** practices for a better deployment workflow.
+## 🧑‍💻 What I Work With Daily
 
-### 💬 Ask me about
+### Frontend
+- React 19
+- Next.js (App Router)
+- React Router v7
+- TypeScript
+- Tailwind CSS, MUI
 
-- **MERN stack** development.
-- **Postman API** testing and automation.
-- **Freelancing** in web development.
+### Backend
+- Node.js
+- NestJS
+- Payload CMS
+- REST APIs & Auth Systems
+- AI integrations (LLM-based APIs)
 
-### ⚡ Fun fact
+### Database & ORM
+- PostgreSQL
+- Prisma
+- MongoDB
 
-- I'm a quick learner and love solving puzzles, whether it's a bug in code or a brain teaser!
+### Dev Tools & Workflow
+- Git & GitHub
+- Postman
+- Vercel / Netlify
+- CI/CD basics
+- Clean Architecture & Modular Codebases
 
 ---
 
