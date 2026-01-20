@@ -1,6 +1,6 @@
 <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png" />
 
-<h1 align="center">Ahmed Raza Baloch</h1>
+<h1 align="center">Ahmed Raza</h1>
 <h3 align="center">
 Mid-Level Full-Stack JavaScript Developer  
 <br/>
@@ -20,46 +20,38 @@ MERN • Next.js • NestJS • CMS • AI Integrations
 
 ## 👋 About Me
 
-I am a **Mid-Level Full-Stack JavaScript Developer** with hands-on experience working in a **software house environment**, delivering **production-grade web applications** for real clients.
+I am a **Full-Stack JavaScript Developer** with professional experience delivering **production-grade web applications** in a **software house environment**.
 
-My work spans **frontend, backend, CMS, databases, and AI-powered integrations**. I focus on building **scalable, maintainable, and business-driven solutions**, not just demos.
+My work focuses on **designing, building, and maintaining scalable systems** across frontend, backend, CMS, and database layers. I regularly work with **modern JavaScript frameworks**, **API-driven architectures**, and **AI-powered integrations** to solve real business problems.
 
-- 💼 Working as **MERN + Shopify Developer**
-- 🧠 Backend-heavy experience with **NestJS**, **Payload CMS**, and API-first systems
-- ⚙️ Full-stack apps using **Next.js** (frontend + backend)
-- 🤖 Integrated **AI services** for data summarization and automation
-- 🧩 Extensive experience with **third-party APIs**
+I am comfortable working across the stack — from **React/Next.js user interfaces** to **NestJS and Express backend services**, **CMS-driven platforms**, and **SQL/NoSQL databases** — with an emphasis on **clean architecture, maintainability, and performance**.
+
+- 💼 Full-Stack Developer (MERN + Shopify)
+- 🧠 Strong backend focus (NestJS, APIs, CMS)
+- 🤖 Experience integrating AI services and third-party APIs
 - 🎓 BS Computer Science — Virtual University of Pakistan
 
 ---
 
-## 🧑‍💻 What I Work With Daily
+## 🧑‍💻 Technical Expertise
 
-### Frontend
-- React 19
-- Next.js (App Router)
-- React Router v7
-- TypeScript
-- Tailwind CSS, MUI
+| Area | Technologies |
+|------|-------------|
+| **Frontend Engineering** | React 19 · Next.js (App Router) · React Router v7 · TypeScript · Tailwind CSS · MUI |
+| **Backend & APIs** | Node.js · Express.js · NestJS · Payload CMS · RESTful APIs · Authentication & Authorization · AI (LLM-based APIs) |
+| **Data Layer** | PostgreSQL · Prisma · MongoDB · Mongoose |
+| **Engineering Workflow** | Git & GitHub · Postman · CI/CD Basics · Vercel · Netlify · Clean Architecture · Modular Codebases |
 
-### Backend
-- Node.js
-- NestJS
-- Payload CMS
-- REST APIs & Auth Systems
-- AI integrations (LLM-based APIs)
+---
 
-### Database & ORM
-- PostgreSQL
-- Prisma
-- MongoDB
+## 🚀 Professional Highlights
 
-### Dev Tools & Workflow
-- Git & GitHub
-- Postman
-- Vercel / Netlify
-- CI/CD basics
-- Clean Architecture & Modular Codebases
+- Delivered **full-stack applications** using Next.js with backend APIs and server-side logic
+- Built and maintained **CMS-driven platforms** using Payload CMS
+- Designed **scalable backend services** with NestJS and Express.js
+- Integrated **AI-powered features** using third-party LLM APIs for data summarization and automation
+- Worked with **PostgreSQL + Prisma** and **MongoDB + Mongoose** in production environments
+- Contributed to **real client projects** with ongoing maintenance and feature delivery
 
 ---
 
