@@ -82,7 +82,7 @@ A backend-focused data integration platform for ingesting Polar Flow data with O
 
 **Focus:** NestJS · PostgreSQL · Redis · OAuth · Background processing · Data ingestion
 
-[View Case Studies](https://ahmedrazabaloch.vercel.app/)
+[View Case Studies](https://activis.digital/)
 
 ---
 
