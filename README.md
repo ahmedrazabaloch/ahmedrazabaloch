@@ -1,10 +1,8 @@
 <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png" />
 
-<h1 align="center">Ahmed Raza Baloch</h1>
+<h1 align="center">Ahmed Raza</h1>
 <h3 align="center">
-Mid-Level Full-Stack JavaScript Developer  
-<br/>
-MERN • Next.js • NestJS • CMS • AI Integrations
+Full-Stack Engineer | React · Next.js · Node.js · NestJS · PostgreSQL · Prisma · AI Integrations
 </h3>
 
 <p align="center">
