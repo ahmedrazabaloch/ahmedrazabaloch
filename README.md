@@ -20,25 +20,33 @@ MERN • Next.js • NestJS • CMS • AI Integrations
 
 ## 👋 About Me
 
-I am a **Full-Stack JavaScript Developer** with professional experience working in a **software house environment**, delivering **production-grade web applications** for real clients.
+I’m a **Full-Stack JavaScript Developer** focused on building production-ready web applications and backend systems for real-world products.
 
-I focus on **scalable architecture**, **API-driven systems**, **CMS-based platforms**, and **AI-powered integrations**, with strong ownership across frontend and backend layers.
+My work spans **frontend architecture, API development, databases, CMS platforms, and AI-powered integrations**. I enjoy turning product requirements into maintainable systems with clear domain boundaries, reliable APIs, and practical deployment workflows.
 
-- 💼 Full-Stack Developer (MERN + Shopify)
-- ⚙️ Backend-focused: NestJS, Express, Payload CMS
-- 🤖 AI integrations using third-party LLM APIs
-- 🎓 BS Computer Science — Virtual University of Pakistan
+I primarily work with the **React / Next.js ecosystem** on the frontend and **Node.js / NestJS** on the backend, with experience designing systems around **PostgreSQL, Prisma, MongoDB, Payload CMS, Shopify, and third-party AI APIs**.
+
+### What I care about
+
+* 🏗️ **Maintainable architecture** — clear boundaries, reusable modules, and code that can evolve with the product.
+* 🔌 **Reliable backend systems** — well-defined APIs, validation, authentication, data integrity, and integrations.
+* 🤖 **Practical AI integration** — using LLMs where they provide real product value rather than adding AI for the sake of it.
+* 🚀 **Production delivery** — building systems that can move beyond prototypes into reliable, deployable products.
+
+I’m continuously improving my engineering depth through **real client projects, production systems, and independent product development**.
 
 ---
 
 ## 🧑‍💻 Technical Expertise
 
-| Area | Technologies |
-|------|-------------|
-| **Frontend Engineering** | React 19 · Next.js (App Router) · React Router v7 · TypeScript · Tailwind CSS · MUI |
-| **Backend & APIs** | Node.js · Express.js · NestJS · Payload CMS · REST APIs · Auth Systems · AI (LLM APIs) |
-| **Data Layer** | PostgreSQL · Prisma · MongoDB · Mongoose |
-| **Engineering Workflow** | Git & GitHub · Postman · CI/CD Basics · Vercel · Netlify · Clean Architecture |
+| Area                     | Technologies & Tools                                                       |
+| ------------------------ | -------------------------------------------------------------------------- |
+| **Frontend Engineering** | React 19 · Next.js · React Router · TypeScript · Tailwind CSS · MUI        |
+| **Backend Engineering**  | Node.js · Express.js · NestJS · REST APIs · Authentication & Authorization |
+| **Data & Persistence**   | PostgreSQL · Prisma · MongoDB · Mongoose · Database Design                 |
+| **CMS & Commerce**       | Payload CMS · Shopify · Shopify APIs                                       |
+| **AI & Integrations**    | OpenAI · Anthropic · Gemini · LLM APIs · Third-Party API Integration       |
+| **DevOps & Workflow**    | Git · GitHub · Postman · Vercel · Netlify · Docker · CI/CD                 |
 
 ---
 
