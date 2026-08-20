@@ -72,7 +72,7 @@ A full-stack travel intelligence platform built around structured journeys, AI-p
 
 **Focus:** Product architecture · AI integration · PostgreSQL · Prisma · API design · Next.js
 
-[View Case Studies](https://ahmedrazabaloch.vercel.app/)
+[View Case Studies](https://wayheld.vercel.app/)
 
 ---
 
@@ -82,7 +82,7 @@ A backend-focused data integration platform for ingesting Polar Flow data with O
 
 **Focus:** NestJS · PostgreSQL · Redis · OAuth · Background processing · Data ingestion
 
-[View Case Studies](https://ahmedrazabaloch.vercel.app/)
+[View Case Studies](https://activis.digital/)
 
 ---
 
